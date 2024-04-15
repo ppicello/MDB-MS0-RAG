@@ -28,3 +28,6 @@ MONGO_COLL = "ENTER_MONGODB_COLLECTION_NAME_HERE"
    - **load_data.py**: This script will be used to load your documents and ingest the text and vector embeddings, in a MongoDB collection.
    - **rag.py**: This script will generate the user interface and will allow you to perform question-answering against your data, using Atlas Vector Search and OpenAI.
 
+## Architecture
+
+![heaarchitectureder](/docs/architecture.png?raw=true "architecture")
