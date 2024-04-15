@@ -1,5 +1,7 @@
 # Atlas Vector Search MS0
 
+![header](/docs/header.png?raw=true "header")
+
 This repo is the template for the MongoDB Atlas Vector Search MS0 workshop. This example is using MongoDB Atlas as vector database, OpenAI as embedding model and LLM and LangChain as LLM framework.
 
 In this example we are using TXT and PDF files.
